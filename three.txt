@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 40AF-A473
+
+ Directory of C:\Users\Arshad Shaik\Desktop\New folder
+
+08-01-2019  15:33    <DIR>          .
+08-01-2019  15:33    <DIR>          ..
+08-01-2019  15:28                99 one.txt
+08-01-2019  15:33                 0 three.txt
+08-01-2019  15:33               399 two.txt
+               3 File(s)            498 bytes
+              
